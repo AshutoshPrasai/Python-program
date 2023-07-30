@@ -1,0 +1,6 @@
+Customer Name: Ashutosh
+Customer Mail: ashu@gmail.com
+| COSTUME NAME|			| BRAND |		| PRICE || QUANTITY | | AMOUNT |
+Flash                               | DC            | $90.00 | 5 | 450.0
+
+Grand Total: 450.0

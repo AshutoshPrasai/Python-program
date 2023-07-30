@@ -1,0 +1,7 @@
+Customer Name: Ashutosh
+Customer Mail: ash@gmail.com
+| COSTUME NAME|			| BRAND |		| PRICE || QUANTITY | | AMOUNT |
+Superman                            | Ash           | $69.69 | 3 | 209.07
+Flash                               | DC            | $90.00 | 5 | 450.0
+
+Grand Total: 659.0699999999999

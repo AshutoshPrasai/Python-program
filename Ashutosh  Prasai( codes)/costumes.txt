@@ -1,0 +1,10 @@
+Superman                           ,Ash          ,$69.69,23
+Batman		                   ,DC           ,$78.99,134
+Flash                              ,DC           ,$90.00,80
+Aquaman                            ,DC           ,$70.00,94
+Wonder Woman                       ,DC           ,$80.00,79
+Bane                               ,DC           ,$99.00,95
+Joker                              ,DC           ,$45.00,68
+Cyclops                            ,DC           ,$59.99,45
+Deadpool                           ,MCU          ,$69.99,78
+Wade Wilssion                      ,MCU          ,$90.00,36

@@ -1,0 +1,7 @@
+Customer Name: Ashutosh
+Customer Mail: ash@gmail.com
+No of days of rent: 5
+S.N. | COSTUME NAME | BRAND | QUANTITY | PRICE | FINE AMOUNT
+Superman                            | Ash           | $69.69 | 3 | 209.07 | $0
+
+Grand Total: 209.07

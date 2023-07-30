@@ -1,0 +1,6 @@
+Customer Name: AShutosh
+Customer Mail: ash@gmail.com
+| COSTUME NAME|			| BRAND |		| PRICE || QUANTITY | | AMOUNT |
+Superman                            | Ash           | $69.69 | 3 | 209.07
+
+Grand Total: 209.07

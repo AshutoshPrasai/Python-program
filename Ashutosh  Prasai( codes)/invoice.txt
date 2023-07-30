@@ -1,0 +1,4 @@
+Cop Costume Set             | Cartmax  |   1 |       $15     |   15.0
+Formal Suite(Black Premium) | Megaplex |   1 |        $14.5  |  14.5
+
+Grand Total: 29.5

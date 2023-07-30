@@ -1,0 +1,8 @@
+Customer Name: saf
+Customer Mail: fasf
+No of days of rent: 3
+S.N. | COSTUME NAME | BRAND | QUANTITY | PRICE | FINE AMOUNT
+Superman                            | Ash           | $69.69 | 3 | 209.07 | $0
+Batman		                    | DC            | $78.99 | 69 | 5450.3099999999995 | $0
+
+Grand Total: 5659.379999999999
